@@ -865,13 +865,13 @@ margin-left: 100px;
       margin-top: -16%;
     }
 }
-@media (max-width:360px){
+@media (max-width:300px){
   .main{
       /* display: none; */
       margin-left: 0px;
   }
   body{
-    width: 175%;
+    width: 215%;
   }
 
   nav ul{
